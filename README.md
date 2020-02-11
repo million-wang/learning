@@ -1,2 +1,2 @@
 # learning
-learning knowledge of GITHUB
+learning knowledge from GITHUB
